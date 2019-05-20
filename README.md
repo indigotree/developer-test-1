@@ -4,7 +4,7 @@
 
 You're required to build a single webpage to display the latest photographs for a fictitious nature photographer. Designs for mobile, tablet & desktop have been supplied, along with page content & images which can all be found below.
 
-The web page should be built with PHP, HTML & CSS and should follow industry best practices. It should work in Chrome, Firefox & Edge on desktop, and should work on both modern iOS & Android devices for mobile/tablet. 
+The web page should be built with PHP, HTML & CSS and should follow industry best practices. It should work in Chrome, Firefox & Edge on desktop, and should work on both modern iOS & Android devices for mobile/tablet.
 
 ## Rules
 
@@ -20,7 +20,7 @@ Please send a `.zip` of your submission to kerry.pendlebery@indigotree.co.uk.
 
 ## Designs
 
-You can find mobile, tablet & desktop designs inside the `/designs` folder of this repository. Currently these designs are only in `.png` format, so we therefore do not expect pixel perfect implementations. We would however like you to be as close as possible.
+You can find mobile, tablet & desktop designs inside the `/designs` folder of this repository. Currently these designs are only `.sketch` and `.png` format. If you do not have Sketch, then please follow as best as possible using the `.png` versions. We would like you to be as close as possible, but we understand pixel perfect is not always possible.
 
 ### Fonts
 
