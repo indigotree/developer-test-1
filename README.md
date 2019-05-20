@@ -20,7 +20,13 @@ Please send a `.zip` of your submission to kerry.pendlebery@indigotree.co.uk.
 
 ## Designs
 
-You can find mobile, tablet & desktop designs inside the `/designs` folder of this repository. Currently these designs are only `.sketch` and `.png` format. If you do not have Sketch, then please follow as best as possible using the `.png` versions. We would like you to be as close as possible, but we understand pixel perfect is not always possible.
+You can find mobile, tablet & desktop designs inside the `/designs` folder of this repository. We have designs in the following formats:
+
+ * [Sketch](https://www.sketch.com/) (`.sketch`)
+ * [Affinity Designer](https://affinity.serif.com/en-gb/designer/) (`.afdesign`)
+ * Flat PNG (`.png`)
+
+If you do not have Affinity Designer or Sketch, then please follow the `.png` versions as best as possible. We would like you to be as close as possible, but we understand pixel perfect is not always possible. Just let us know when you submit your test.
 
 ### Fonts
 
