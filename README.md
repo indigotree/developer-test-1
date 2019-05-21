@@ -74,5 +74,3 @@ Please create a contact form that will send emails to `dev-test@indigotree.co.uk
 - Last Name
 - E-Mail Address
 - Message
-
-For the purposes of this test, input validation is optional.
