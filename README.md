@@ -6,7 +6,19 @@ You're required to build a single webpage to display the latest photographs for 
 
 The web page should be built with PHP, HTML & CSS and should follow industry best practices. It should work in Chrome, Firefox & Edge on desktop, and should work on both modern iOS & Android devices for mobile/tablet.
 
-## Rules
+## Rules (WordPress Version)
+
+Please follow these rules if we ask you to complete this task as a WordPress theme:
+
+* Please do not spend more than 6 hours on the task
+* Feel free to use the internet
+* Please do not use Avada, or similar premium theme
+* You may use a starter theme, such as underscores or sage
+* Do not share your submission publicly online
+
+## Rules (HTML Version)
+
+If we did not ask you to complete this as a WordPress task, then please follow these rules:
 
 * Please do not spend more than 4 hours on the task
 * Feel free to use the internet
