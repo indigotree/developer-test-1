@@ -12,8 +12,8 @@ Please follow these rules if we ask you to complete this task as a WordPress the
 
 * Please do not spend more than 6 hours on the task
 * Feel free to use the internet
-* Please do not use Avada, or similar premium theme
-* You may use a starter theme, such as underscores or sage
+* Please do not use Avada, or a similar premium theme
+* You may use a starter theme, such as [underscores](https://underscores.me/) or [sage](https://roots.io/sage/) if you wish
 * Do not share your submission publicly online
 
 ## Rules (HTML Version)
